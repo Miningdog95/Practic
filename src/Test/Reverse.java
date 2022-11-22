@@ -1,9 +1,7 @@
 package Test;
 
-import java.lang.reflect.Array;
-import java.util.List;
 import java.util.Scanner;
-import java.util.ArrayList;
+
 
 public class Reverse {
     public static void main(String[] args) {
